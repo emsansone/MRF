@@ -10,9 +10,17 @@ to appear in IEEE Trans. on Multimedia (2017)
 
 
 In order to run it:
+
 1. Compile using Visual Studio (version >= 2012)
+
 2. Add in the same folder of the final executable the files 
    "Parameters.txt" and "exiftool.exe"
 
 
-For report any bug, send an email to e.sansone@unitn.it 
+Send an email to e.sansone@unitn.it with comments/suggestions/bugs!
+
+ATTENTION:
+- This package is free for academic usage. You can run it at 
+  your own risk. For other purposes, please contact me.
+
+- If you use this software, please cite the reference paper
