@@ -1,0 +1,8 @@
+C:/Users/SANSONE/Google Drive/ICMR_ICIP/DevSet/5.xml
+C:/Users/SANSONE/Google Drive/ICMR_ICIP/DevSet/3.xml
+WITH GPS
+Max number of iter: 1000
+Stop value: 0
+Iterations: 43
+0.2 0.2
+0.138471 29.6577
