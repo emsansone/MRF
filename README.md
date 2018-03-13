@@ -18,7 +18,7 @@ In order to run it:
 ```
 @article{sansone2017automatic,
   title={Automatic synchronization of multi-user photo galleries},
-  author={Sansone, Emanuele and Apostolidis, Konstantinos and Conci, Nicola and Boato, Giulia and Mezaris, Vasileios and De Natale, Francesco GB},
+  author={Sansone, Emanuele and Apostolidis, Konstantinos and Conci, Nicola and Boato, Giulia and Mezaris, Vasileios and De Natale, Francesco G.B.},
   journal={IEEE Transactions on Multimedia},
   volume={19},
   number={6},
