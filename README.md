@@ -2,7 +2,7 @@
 # Sync - C++ project (Visual Studio 2012)
 -------------------------------------
 
-The code implements the MRF stage described in the paper [Automatic Synchronization of Multi-User Photo Galleries](http://ieeexplore.ieee.org/document/7822999/?reload=true):
+The code implements the MRF stage described in the paper [Automatic Synchronization of Multi-User Photo Galleries](http://ieeexplore.ieee.org/document/7822999/?reload=true)
 
 
 ## Instructions
